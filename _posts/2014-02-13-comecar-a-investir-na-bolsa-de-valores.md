@@ -3,13 +3,13 @@ layout: default
 title: Começar a investir na bolsa de valores
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Para muitos investidores, investir na bolsa é a meta final. É um investimento de risco, mas também um dos investimentos que mais lucros pode oferecer. Investir na bolsa pode fazê-lo ganhar milhares de euros num só dia, mas também pode fazê-lo perdê-los!
 
 Se está a pensar em investir na bolsa de valores, veja como começar!
 
-##Conhecer bem os mercados financeiros
+## Conhecer bem os mercados financeiros
 
 Para investir na bolsa de valores não há outra forma, tem que conhecer bem os mercados onde deseja operar. Mesmo que recorra ao apoio de um consultor financeiro, é importante que saiba o que está a aceitar, pois a responsabilidade é sua e o investimento também.
 
@@ -17,7 +17,7 @@ Pode conhecer os mercados financeiros através de livros de mercado financeiros,
 
 Enquanto não se sente confortável para investir, é recomendável que invista em papel, ou seja, que simule que está a investir na bolsa. Com este pequeno treino vai começar a perceber os seus erros e terá tempo de corrigi-los antes de perder dinheiro.
 
-##Poupar... muito!
+## Poupar... muito!
 
 Para investir, e principalmente para ganhar bastante, necessita de ter bastante dinheiro para investir. Quanto mais tiver para investir, maiores poderão ser os seus lucros.
 
@@ -26,7 +26,7 @@ Deve ainda criar um fundo reservado ao investimento, sendo que deverá utilizar 
 
 O importante é nunca depender do dinheiro que tem investido, pois poderá necessitar dele e ver-se forçado a vender ações antes da sua maturidade e, consequentemente, perder dinheiro.
 
-##Escolher a corretora
+## Escolher a corretora
 
 A corretora será o seu braço direito no investimento na bolsa de valores e por esse motivo deve escolher bem. Veja a corretora como um parceiro de confiança para a vida.
 
@@ -36,7 +36,7 @@ Além da credibilidade, deve ter em conta as taxas que são cobradas. Algumas co
 
 Se transacionar poucas vezes, mas forem transações de grande valor, deve optar por corretoras que cobram por transação. Se, pelo contrário, investe várias vezes, mas em valores pequenos, talvez seja mais vantajoso ser cobrado por percentagem. Não existem regras definidas nas taxas das corretoras, mas deverá sempre analisar qual a melhor forma para o seu perfil.
 
-##Traçar objetivos e plano de investimento
+## Traçar objetivos e plano de investimento
 
 Como qualquer negócio, também os investimentos na bolsa de valores devem ser cuidadosamente planeados. Um investimento de impulso tem mais hipóteses de o fazer perder dinheiro do que um investimento calculado.
 

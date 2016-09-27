@@ -3,14 +3,14 @@ layout: default
 title: Investimentos em imóveis, o que precisa de saber
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Investir em imóveis continua a ser considerado um bom negócio e, desde que possamos esperar para vender, consegue-se quase sempre ganhar bastante dinheiro.
 Como em todos os investimentos, para ter sucesso nos imóveis, é necessário saber como os fazer.
 
 Fique a conhecer tudo sobre os investimentos em imóveis.
 
-##Investir em imóveis é investir a longo prazo
+## Investir em imóveis é investir a longo prazo
 
 Qualquer investimento é mais bem conseguido se for um investimento a longo prazo, no entanto no mundo dos imóveis esta afirmação é ainda mais verdadeira.
 
@@ -19,7 +19,7 @@ Ao contrário das ações, os imóveis não representam valor líquido imediato,
 
 Vender quando os valores estão baixos apenas porque se precisa do valor é um mau investimento e deve ser evitado sempre que possível. É preferível apenas investir quando souber que o valor não será necessário a longo prazo.
 
-##3 Formas de investir em imóveis
+## 3 Formas de investir em imóveis
 
 O investimento em imobiliário é bem mais simplificado que o investimento em ações. Ao contrário das ações, os imóveis podem ser alvo de investimento mesmo por quem não tem um vasto conhecimento do mundo financeiro.
 
@@ -29,7 +29,7 @@ Existem 3 formas simples de investir em imóveis:
 * __Vender__ - Comprar um imóvel para o vender quando os valores subirem. Comprar e vender de forma direta, sem qualquer interação extra.
 * __Reabilitar e vender__ - Trata-se de comprar um imóvel por um preço baixo, transformar e reabilitar o imóvel, valorizando-o para depois o vender por um preço mais alto.
 
-##4 Aspetos que determinam o valor de um imóvel
+## 4 Aspetos que determinam o valor de um imóvel
 
 Ao decidir adquirir um imóvel deve ser capaz de avaliar o seu valor para ter a certeza de que está a efetuar uma boa compra e por um bom preços.
 

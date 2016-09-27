@@ -3,9 +3,9 @@ layout: default
 title: Como saber se os investimentos são indicados para si
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##Investimentos são sinal de grande retorno, mas também simbolizam grandes riscos.
+## Investimentos são sinal de grande retorno, mas também simbolizam grandes riscos.
 
 Quem investe, seja na bolsa de valores, no mercado imobiliário ou de outras formas, deve ponderar não só os potenciais lucros, mas também as prováveis percas.
 
@@ -13,7 +13,7 @@ Além disto, um investidor tem ainda que ter uma série de caraterísticas, como
 
 Está a pensar em investir? Será que os investimentos são indicados para si?
 
-##O que precisa de saber antes de investir
+## O que precisa de saber antes de investir
 
 Antes de tomar a decisão de investir, deve informar-se do todos os requisitos necessários para esta atividade. Apenas cumprindo todos estes pontos, tem hipótese de ser tornar num investidor de sucesso.
 
@@ -22,7 +22,7 @@ Antes de tomar a decisão de investir, deve informar-se do todos os requisitos n
 * __Objetivo__ - Todos os investimentos devem existir para cumprir determinado objetivo. É este fim que dirá quando deve recolher os seus lucros e dar por terminado aquele investimento em particular. Pode ter vários objetivos em simultâneo, mas nunca deve investir apenas para “ganhar dinheiro”, pois aí não terá uma meta que possa atingir. O ideal será ter objetivos como “comprar uma casa nova” ou “ganhar 200.000€”.
 * __Plano de investimento__ - Antes de começar a investir, deve perder algum tempo a traçar um plano de investimento. Este servirá para o guiar nas suas decisões e para garantir que não toma ações por impulso.
 
-##As caraterísticas essenciais para um investidor
+## As caraterísticas essenciais para um investidor
 
 Nem todos nós podemos ser investidores. A verdade é que mesmo que consigamos cumprir todos os pontos acima, podemos não ter a personalidade necessária para investir.
 
